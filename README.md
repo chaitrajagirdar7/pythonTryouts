@@ -1,3 +1,10 @@
+assesment_2:
+
+
+
+
+
+
 # pythonTryouts
 pythonTryouts
 Task1 :
